@@ -26,8 +26,9 @@ Ora allarghiamo la fotografia e vediamo dove voglio andare a parare.
 **Non userò metafore.**
 A quanto pare nel vaso dove _Rutili _ha **VOMITATO **non cresce più niente!
 Mia madre l'altro giorno è venuta da me e mi ha detto:
-<span style="display: block; margin-top: 5px; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: #f5f5f5; position: relative; zoom: 1; background-position: initial initial; padding: 5px; border: 1px solid #cccccc;">Ma quello che ha fatto tutto quel casino ma che si è vomitato? non cresce più niente!</span>
-unquote
+
+> Ma quello che ha fatto tutto quel casino ma che si è vomitato? non cresce più niente!
+
 Guardate.
 ![](http://farm1.static.flickr.com/164/392826487_1cbee91059_d.jpg)
 Mia madre ne sta facendo di tentativi, ma niente.
