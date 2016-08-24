@@ -68,4 +68,10 @@ theme: hacker
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: rsync
+  host: backup
+  user: server
+  root: /home/www-data/static/impazzito.it/
+  delete: true
+  verbose: true
+  ignore_errors: false
