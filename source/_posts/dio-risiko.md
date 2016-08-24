@@ -36,7 +36,7 @@ Quindi perchè non parlare anche di due dei, l'uno in lotta con l'altro, entramb
 
 Da qui, la mia teoria del Dio Risiko.
 
-![](http://farm2.static.flickr.com/1232/859527764_d8834377bd.jpg)
+![](/uploads/2007/risiko-tanks.jpg)
 unquote
 Fondamentalmente ne servono due perchè è in questo modo che riusciamo a capire le differenze tra luce ed ombra. Il creato funziona ed è in ordine grazie al famoso gioco degli opposti che si attraggono.
 Gli opposti si attraggono e creano qualcosa di nuovo e di fantastico. Protoni ed elettroni insieme formano l'atomo, maschi e femmine danno alla luce i figli.
@@ -54,11 +54,11 @@ Cioè hanno poteri diversi, uno stile di gioco diverso, ma non è che l'uno sia 
 
 Perchè cambia tutta la strategia. Il Dio che prende i buoni ha carte di questo tipo:
 
-[![](http://farm2.static.flickr.com/1176/1372251641_f58c1d4d1a.jpg)](http://www.flickr.com/photos/riccardodivirgilio/1372251641/lightbox/)
+[![](/uploads/2007/risiko-goods.jpg)](http://www.flickr.com/photos/riccardodivirgilio/1372251641/lightbox/)
 
 Il Dio cattivo invece può disporre di tutt'altro arsenale:
 
-[![](http://farm2.static.flickr.com/1236/1373155604_1d0e4679fd.jpg)](http://www.flickr.com/photos/riccardodivirgilio/1373155604/lightbox/)
+[![](/uploads/2007/risiko-bads.jpg)](http://www.flickr.com/photos/riccardodivirgilio/1373155604/lightbox/)
 
 Poi entrambi hanno a disposizione i figli. **Lanciare il figlio di Dio è una cosa complicata**, che però permette di influenzare direttamente ampie popolazioni con il fascino carismatico e sovrannaturale di queste persone.
 
@@ -67,7 +67,7 @@ Entrambi hanno smosso centinaia di migliaia di persone, muovendo sentimenti irra
 
 Ecco le carte dei figli di Dio.
 
-[![](http://farm2.static.flickr.com/1113/1372531129_aee1b2d81f.jpg)](http://www.flickr.com/photos/riccardodivirgilio/1372531129/lightbox/)
+[![](/uploads/2007/risiko-sons.jpg)](http://www.flickr.com/photos/riccardodivirgilio/1372531129/lightbox/)
 
 Insomma fondamentalmente la mia teoria duopolistica dell'origine del mondo è una teoria valida e robusta, nel contempo versatile e che spiega moltissime meccaniche contingenti che le altre religioni lasciano insolute.
 Come il perché esista il male, Berlusconi ed Hollywood.
@@ -79,4 +79,4 @@ Quindi la mia religione invita al relax, perchè dopotutto la vita è molto meno
 
 Sciallatevi, e godetevi lo spettacolo che i nostri dei hanno creato per noi.
 
-![](http://agorafobioso.files.wordpress.com/2008/11/gesu-compagnone.jpg)
+![](/uploads/2007/gesu-compagnone.jpg)
