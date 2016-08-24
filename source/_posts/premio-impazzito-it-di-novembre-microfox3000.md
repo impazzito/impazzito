@@ -20,7 +20,7 @@ Che può riassumersi in 3 punti:
 2.  Noi abbiamo provato a rubare ma ci è andata male.
 3.  Ergo dichiariamo bancarotta, inculiamo un botto di soldi ai fornitori, prima di cambiare lavoro.
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")](http://impazzito.it/sites/impazzito.it/uploads/2009/09/completamente-impazzito.png)
+[![](/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")](/uploads/2009/09/completamente-impazzito.png)
 
 In stile Vieni via con me, riportiamo un elenco delle domande che sono state fatte, con una risposta che spesso è il corollario all'enunciato della domanda.
 
@@ -31,7 +31,6 @@ In stile Vieni via con me, riportiamo un elenco delle domande che sono state fat
 *   **Domanda**: Perché in questo paese si invidia chi ha di più, anche poco di più, non avendo imparato che se c’è chi ha di più sarà per merito dei propri sacrifici e delle proprie notti insonni.
 *   _**Risposta**: Vero per pochi (in italia), vero per molti (in america). Purtroppo nel nostro paese ha molto chi ha molte conoscenze e coltiva relazioni sociali di stampo camorristico._
 Ora si arriva a delle frasi che se capitassero sulla scrivania di Feltri sarebbero pubblicate immediatamente a titoli cubitali il giorno dopo su Il giornale.
-
 *   **Domanda**: Perché in altri paesi senti parlare con gioia e vanto delle nuove linee di treni ad alta velocità mentre qui si grida allo scandalo ambientale e all’esproprio dei terreni.
 *   _**Risposta**: ... stai bene così_
 *   **Domanda**: Perché i grandi ponti e le colossali e moderne opere architettoniche degli altri paesi sono i luoghi visitati da ogni turista italiano mentre in patria, il ponte sullo stretto è dagli stessi individui giudicato un latrocinio, uno scempio ambientale nonché una oscenità estetica.

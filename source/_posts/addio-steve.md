@@ -9,4 +9,4 @@ tags:
 
 Addio Steve Jobs, addio pazzo visionario.
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2011/10/Schermata-10-2455841-alle-07.59.15.png "Schermata 10-2455841 alle 07.59.15")](http://impazzito.it/sites/impazzito.it/uploads/2011/10/Schermata-10-2455841-alle-07.59.15.png)
+[![](/uploads/2011/10/Schermata-10-2455841-alle-07.59.15.png "Schermata 10-2455841 alle 07.59.15")](/uploads/2011/10/Schermata-10-2455841-alle-07.59.15.png)

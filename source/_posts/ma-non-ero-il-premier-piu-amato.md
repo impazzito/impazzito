@@ -16,7 +16,7 @@ Lo ha raccontato a tutti ed ora ci crede anche lui.
 _Nessuno mi capisce._
 Povero Premier, la solita vittima.
 
-[![Ma non ero il premier più amato?](http://farm3.static.flickr.com/2661/4185355710_4680ec825c_o.png)](http://www.flickr.com/photos/riccardodivirgilio/4185355710/ "Ma non ero il premier più amato? by riccardodivirgilio, on Flickr")
+[![Ma non ero il premier più amato?](/uploads/2009/processo-breve.png)](/uploads/2009/processo-breve.png "Ma non ero il premier più amato? by riccardodivirgilio, on Flickr")
 
 Quando vai in giro fra la gente raccogli solo fischi, insulti e statuette.
 **Perchè sei solo chiacchiere e prescrizione, chiacchiere e prescrizione.**

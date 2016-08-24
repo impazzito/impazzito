@@ -12,10 +12,11 @@ Nella rubrica culturale di oggi abbiamo deciso di dare una risposta ad una doman
 "Cosa vorrà dire esattamente 'A cazzo dritto'?"
 
 Per rispondere ai miei lettori cito una fonte certa di sapere, [Wikipedia](http://it.wikipedia.org/), che riporta:
-> _a cazzo dritto_: espressione che sostituisce la parola "sicuramente", ad esempio: verrò all'appuntamento a "cazzo dritto" (verrò all'appuntamento sicuramente)> 
+> _a cazzo dritto_: espressione che sostituisce la parola "sicuramente", ad esempio: verrò all'appuntamento a "cazzo dritto" (verrò all'appuntamento sicuramente)
+> 
 > <small>[http://it.wikipedia.org/wiki/Cazzo](http://it.wikipedia.org/wiki/Cazzo)</small>
 
-![](/sites/impazzito.it/uploads/2011/09/274158994_eeea519707_b.jpg "274158994_eeea519707_b")
+![](/uploads/2011/09/274158994_eeea519707_b.jpg "274158994_eeea519707_b")
 
 Riporto altri esempi per meglio spiegare le sfumature di questa complessa espressione.
 

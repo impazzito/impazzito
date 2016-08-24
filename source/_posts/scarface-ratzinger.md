@@ -8,6 +8,6 @@ tags:
 ---
 
 La vera storia del giovane Ratzinger
-[![](http://impazzito.it/sites/impazzito.it/uploads/2012/02/stripwhite.jpg "Il giovane Joseph ratzinger")](http://impazzito.it/sites/impazzito.it/uploads/2012/02/stripwhite.jpg)
+[![](/uploads/2012/02/stripwhite.jpg "Il giovane Joseph ratzinger")](/uploads/2012/02/stripwhite.jpg)
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2012/02/scarface-ratzinger.png "scarface-ratzinger")](http://impazzito.it/sites/impazzito.it/uploads/2012/02/scarface-ratzinger.png)
+[![](/uploads/2012/02/scarface-ratzinger.png "scarface-ratzinger")](/uploads/2012/02/scarface-ratzinger.png)

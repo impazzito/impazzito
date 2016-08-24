@@ -9,7 +9,7 @@ tags:
 
 Manca poco al mondiale e quindi... FORZAITALIAAAAAAAAA...! (tirando fuori la lingua come il grande Gassman all'Olimpico nei Mostri).
 
-![](http://www.monkeyonboard.com/blog/germania_2006/vittoria.jpg "Nazionale")
+![](/uploads/2016/forza-roma.jpeg "Nazionale")
 
 Eh No. Da quando il senatore della Repubblica Marcello Dell'Utri fondò Forza Italia non abbiamo più potuto gridare forza italia. Forza azzurri, spigni italia, avanti stivale vanno ancora bene, ma non forza italia, proprio no.  Stavo studiando per la maturità quando apparvero i primi manifesti per strada e la campagna fun ben lanciata. Ricordo dei bambini con la scritta Forza Itaia che destavano curiosità, tenerezza e stupore per la quantità in giro per le strade. Da quel momento non abbiamo più potuto usare il nostro slogan, se no avremmo fatto pubblicità al partito. Pazienza.
 

@@ -11,7 +11,7 @@ date: 2009-11-25 15:08:04
 
 Il ministro della Giustizia alfano ci ha fornito 2 ipotesi:
 
-![](http://www.lastampa.it/redazione/cmssezioni/politica/200911images/angelino_alfano01g.jpg "Alfano")
+![](/uploads/2009/alfano.jpeg "Alfano")
 > dopo aver affermato che solo l’1% dei processi decadrà, ha dato una statistica della durata media di un processo, sette anni e mezzo.
 
 ## Ipotesi

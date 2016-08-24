@@ -9,7 +9,7 @@ categories:
 date: 2009-09-27 22:25:14
 ---
 
-[![Premio del mese impazzito.it](http://impazzito.it/sites/impazzito.it/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")](http://www.youtube.com/watch?v=ispoFdWRXro)
+[![Premio del mese impazzito.it](/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")](http://www.youtube.com/watch?v=ispoFdWRXro)
 Il premio Impazzito.it è un premio che viene assegnato non necessariamente tutti i mesi, ma solo quando accade qualcosa di particolarmente fuori di testa che ti fa dire: **"O mio dio... completamente impazzito!"**
 
 **Siamo lieti di assegnare il [premio settembre 2009 ai Muse](http://www.youtube.com/watch?v=ispoFdWRXro).**

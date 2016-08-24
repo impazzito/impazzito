@@ -16,7 +16,7 @@ Io credo di essere un pazzo, infatti sono il titolare di un blog che è un liber
 Tuttavia credo che ci sia una persona che mi batte.
 
 Eccola qui.
-![Berlusconi impazzisce alla vista della splendida consorte del presidente americano Obama.](http://impazzito.it/sites/impazzito.it/uploads/2009/09/619098_620195a.jpg "Berlusconi, Obama, Michelle")
+![Berlusconi impazzisce alla vista della splendida consorte del presidente americano Obama.](/uploads/2009/09/619098_620195a.jpg "Berlusconi, Obama, Michelle")
 unquote
 _Ovviamente non parlo della coppia di negri, parlo del nano pelato._
 Il nano crede di essere molto spiritoso, e di piacere a tutti, **non ha capito che all'estero non tutti hanno il nostro senso dell'umorismo**.

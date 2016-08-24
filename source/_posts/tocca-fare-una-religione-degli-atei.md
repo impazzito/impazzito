@@ -13,7 +13,7 @@ Regà... guardiamoci in faccia, noi atei.
 **Siamo 4 cazzi scappellati anarchici che smerdano la religione ognuno a modo suo.**
 Non va bene, ragazzi, così non vinciamo.
 
-[![Ateismo, il cannochiale.](http://impazzito.it/sites/impazzito.it/uploads/2011/09/200577209601250.jpg "Ateismo")](http://ateismo.ilcannocchiale.it/) 
+[![Ateismo, il cannochiale.](/uploads/2011/09/200577209601250.jpg "Ateismo")](http://ateismo.ilcannocchiale.it/) 
 
 **Il problema è che l'ateismo non riesce ad attaccare sulla fascia di gente stupida.**
 
@@ -46,7 +46,7 @@ E noi dobbiamo costruire una religione atea.
 Con dogmi e comandamenti, se vogliamo comandà, e se vogliamo la gente atea e scappellata.
 
 Quindi io direi di fare un wiki religione che abbia le seguenti caratteristiche.
-[![](http://impazzito.it/sites/impazzito.it/uploads/2011/09/simbolo-ateismo.png "simbolo-ateismo")](http://impazzito.it/sites/impazzito.it/uploads/2011/09/simbolo-ateismo.png)
+[![](/uploads/2011/09/simbolo-ateismo.png "simbolo-ateismo")](/uploads/2011/09/simbolo-ateismo.png)
 
 1.  **C'è bisogno di un eroe, buono che ispiri le persone**. La cui storia sia avvincente e la cui vita abbia un alone di mistero che affascini le menti. Del tipo, ma è solo un'idea, un uomo nato da una vergine (magari coltivato in provetta, cosa che oggigiorno è possibile) e che abbia un finale che spacca il culo. Uno stefano cucchi menato a sangue perchè difendeva il diritto di pensare a cazzo dritto.
 2.  **Dei dogmi chiari,**che diano delle risposte psudo scientifiche alle domande esistenziali dell'uomo.

@@ -16,7 +16,7 @@ E' impressionante che nessuno ne parli, ma il fuso orario è sbagliato, provoca 
 **Qualcuno dice che io sono pazzo, ma parliamo di quello che invece dicono i normali.**
 Esaminate questa mappa:
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2011/06/Standard_time_zones_of_the_world.png)](http://impazzito.it/sites/impazzito.it/uploads/2011/06/Standard_time_zones_of_the_world.png)
+[![](/uploads/2011/06/Standard_time_zones_of_the_world.png)](/uploads/2011/06/Standard_time_zones_of_the_world.png)
 
 **Esiste un punto nel mondo, in cui oltrepassandolo ci si sposta di 24 ore, da -12 a +12 ore, così, di botto!**
 Questo è di facile spiegazione: partendo da londra mi sposto verso est e passo a +1, +2, +3 ed arrivo poco dopo la Groenlandia (altro capo del mondo) a +12.

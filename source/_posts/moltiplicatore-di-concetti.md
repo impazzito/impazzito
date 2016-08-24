@@ -24,7 +24,7 @@ Ergo nella mia vita coniugale mi ritrovo davanti continuamente un problema di ra
 **Ergo avendo io a disposizione pochi concetti per far felice la mia amata ho generato un algoritmo che moltiplica il numero di frasi e di periodi che possono essere fatti con dei semplici concetti base.
 **
 Il seguente algoritmo mi consente di ampliare alla grandissima il mio repertorio di frasi, ad esempio partendo da [miciola, miao, gattona, bubu](#!) si ottiene:
-<script type="text/javascript" src="/sites/impazzito.it/uploads/statics/js/combiner.js"></script>
+<script type="text/javascript" src="/uploads/statics/js/combiner.js"></script>
 <script type="text/javascript">// <![CDATA[
 jQuery.noConflict();
 jQuery(document).ready(function() {

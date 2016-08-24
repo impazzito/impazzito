@@ -30,7 +30,7 @@ Perchè Israele ha un parlamento, ha uno stato, ha una polizia ed è capace di i
 
 Io sono stato a Gerusalemme ([eccovi la prova »](http://www.flickr.com/photos/riccardodivirgilio/sets/72157621919638043/ "Giordania ed Israele")), e credo che sia l'unico modo per capire cosa voglia dire essere palestinese, essere israeliano.
 
-[![Me ed il muro](http://farm3.static.flickr.com/2481/3823154794_890c05ebc8.jpg)](http://www.flickr.com/photos/riccardodivirgilio/3823154794/ "Me ed il muro")
+[![Me ed il muro](/uploads/2009/israele-wall.jpg)](http://www.flickr.com/photos/riccardodivirgilio/3823154794/ "Me ed il muro")
 > **Da quando ci hanno costruito questo muro, ci sembra di vivere in galera.**
 > _Tassista anonimo palestinese_
 **E' assurdo vivere in galera a casa propria.**
@@ -41,7 +41,9 @@ Il motivo? **Credo che la libretà sia il valore supremo**.
 La mia [tesi in filosofia](http://docs.google.com/Doc?docid=0AbAkYdLDjk_PZGRtODJoZGNfMTAwZndkd3R2&amp;hl=it "La teoria Rawlsiana della Giustizia") era sulla libertà.
 La libertà è a mio parere l'unica cosa che distingua il vivere dal sopravvivere, e l'unico motivo per cui valga la pena morire. _Forse_.
 
-[![Riccardo-071](http://farm1.static.flickr.com/177/420517915_46aebb57fa_m.jpg)](http://www.flickr.com/photos/riccardodivirgilio/420517915/ "Io e gli orfani, on Flickr") Ho conosciuto molte persone povere [in vita mia](http://www.flickr.com/photos/riccardodivirgilio/sets/72157594588120661/), e sapete cosa ho imparato? **Che essere poveri non è un problema.**
+[![Riccardo-071](http://farm1.static.flickr.com/177/420517915_46aebb57fa_m.jpg)](http://www.flickr.com/photos/riccardodivirgilio/420517915/ "Io e gli orfani, on Flickr") 
+
+Ho conosciuto molte persone povere [in vita mia](http://www.flickr.com/photos/riccardodivirgilio/sets/72157594588120661/), e sapete cosa ho imparato? **Che essere poveri non è un problema.**
 
 Alcune di loro, erano molto più felici di noi, che abbiamo macchine, iphone e tutte le dannate sovrastrutture che ci impediscono di sorridere delle cose semplici.
 
@@ -56,7 +58,7 @@ Durante il controllo del passaporto, con una guardia che mi puntava il fucile pe
 Questa foto vi sembra aberrante? Vi sembra un insulto all'uomo, alla tolleranza, alla fratellanza?
 Anche a me. Ma purtroppo la storia non insegna mai un cazzo.
 
-[![Hitler_Nürnberg_1935](http://farm3.static.flickr.com/2523/3927360882_4655ac9aab.jpg)](http://www.flickr.com/photos/riccardodivirgilio/3927360882/ "Hitler_Nürnberg_1935")
+[![Hitler_Nürnberg_1935](/uploads/2009/hitler-fake.jpg)](http://www.flickr.com/photos/riccardodivirgilio/3927360882/ "Hitler_Nürnberg_1935")
 
 Israele la piantasse di rompere il cazzo con l'olocausto, **perchè tirare missili al fosforo bianco** (armi progettate per distruggere i tessuti umani e lasciare intatti gli edifici) **contro degli ospedali non mi sembra molto diverso dalla pulizia etnica nazista nei campi di concentramento**.
 Potrà cambiare il metodo, sicuramente più razionale e scientifico, ma non cambia la sostanza.

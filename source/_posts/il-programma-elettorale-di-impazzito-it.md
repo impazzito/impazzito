@@ -16,9 +16,7 @@ Questo è il programma di Impazzito.it, un programma in 10 punti, per cambiare a
 
 Un programma per stipulare un nuovo contratto sociale.
 
-&nbsp;
-
-[caption id="attachment_579" align="alignright" width="232" caption="Diciamo No, a cazzo dritto!"][![Diciamo NO, a cazzo dritto!](http://impazzito.it/sites/impazzito.it/uploads/2011/09/penis.png "Diciamo NO, a cazzo dritto!")](http://impazzito.it/sites/impazzito.it/uploads/2011/09/penis.png)[/caption]
+[![](/uploads/2011/09/penis.png "Diciamo NO, a cazzo dritto!")](/uploads/2011/09/penis.png)
 
 1.  **Nazionalizzazione delle banche**. All'inizio del novecento, negli stati uniti le banche erano TUTTE pubbliche.
 Era considerato follia dare ad un privato il potere di signoraggio. A questo potere, nell'era della finanza, si è aggiunto anche l'arbitraggio, (la speculazione su temporanei disallineamenti del mercato, che permette di comprare oro a Londra e venderlo a New York avendo un profitto sicuro ed istantaneo) che ogni giorno consegna nelle tasche dei banchieri profitti enormi e senza rischi.

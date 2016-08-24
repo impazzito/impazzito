@@ -16,7 +16,7 @@ date: 2010-10-19 00:00:54
 Le idee sono libere solo quando non hanno interessi da difendere, le mie idee possono essere considerate tali (fino a prova contraria).
 Diffidate da filantropi industriali, dai pensatori col colletto bianco, perchè spesso non parlano per conto proprio, ma per conto delle azioni che posseggono.
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2010/10/2006_v_for_vendetta_036.jpg "J056-24ac")](http://impazzito.it/sites/impazzito.it/uploads/2010/10/2006_v_for_vendetta_036.jpg)
+[![](/uploads/2010/10/2006_v_for_vendetta_036.jpg "J056-24ac")](/uploads/2010/10/2006_v_for_vendetta_036.jpg)
 
 **Ad esempio la libertà, quella di commercio, di iniziativa e di pensiero è stata creata dagli industriali, e serviva a giustificare il nuovo potere nascente, quello del denaro.** Non più diritti divini, non più diritti di sangue, ma un nuovo potere, che doveva portare dei bifolchi arricchiti da ferrovie e carbone allo stesso tavolo con nobili e marchesi. Il potere si era spostato dai possedienti terrieri agli industriali.
 Questo accadeva molto tempo fa, ed il tipo che ha postulato queste teorie (vi aiuto: comincia con la M e finisce con la X) non ha vissuto i nostri tempi.

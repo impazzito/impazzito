@@ -17,11 +17,13 @@ In questa sede tuttavia, **cercheremo di concentrarci soprattutto sull'aspetto e
 Nel mio viaggio in Gerusalemme insieme ad un mio amico, che per motivi di privacy chiameremo Giorgio M. (anche se lui preferisce farsi chiamare G. Memè), **abbiamo approfondito i vantaggi che l'economia e le transazioni avrebbero dopo un passaggio al sistema monetario a termovalorizzazione semplice**.
 
 Riassumiamo le basi per i profani:
-> ![Herbert Kappler - Principi di termovalorizzazione semplice](http://impazzito.it/sites/impazzito.it/uploads/2009/09/wishyouwerehere.jpg "Principi di termovalorizzazione semplice")**Nel momento in cui avviene una qualsiasi transazione**, per esempio di 12 monete, **parallelamente vengono termovalorizzati un numero di israeliano sufficienti per erogare l'energia richiesta dalla transazione**, poniamo 2\. 
+> ![Herbert Kappler - Principi di termovalorizzazione semplice](/uploads/2009/09/wishyouwerehere.jpg "Principi di termovalorizzazione semplice")
+**Nel momento in cui avviene una qualsiasi transazione**, per esempio di 12 monete, **parallelamente vengono termovalorizzati un numero di israeliano sufficienti per erogare l'energia richiesta dalla transazione**, poniamo 2\. 
 > In questo caso il sistema presenta un tasso di termovalorizzazione pari a 6, poichè ogni unità termovalirizzata eroga un valore monterio di 12 monete totali / 2 prigionieri termovalorizzati = 6.
 > Importante notare come il saggio di termovalorizzazione possa essere usato dal governo per controllare l'offerta di moneta, semplicemente svalutando o rivalutando il suo valore nominale.
 > **[Herbert Kappler](http://it.wikipedia.org/wiki/Herbert_Kappler) - Principi di termovalorizzazione semplice**
-[![Esci di qui](/wp-content/uploads/2009/09/escidiqui.png "Esci di qui")](http://www.mormoni.com/)Se credete che questo sia troppo per voi,** vi invitiamo a lasciare il sito con il tasto qui a destra**, altrimenti continuiamo il nostro iter nelle origini del sistema monetario che tanto ha fatto parlare di se.
+[![Esci di qui](/uploads/2009/09/escidiqui.png "Esci di qui")](http://www.mormoni.com/)
+Se credete che questo sia troppo per voi,** vi invitiamo a lasciare il sito con il tasto qui a destra**, altrimenti continuiamo il nostro iter nelle origini del sistema monetario che tanto ha fatto parlare di se.
 unquote
 
 ## 1\. Le origini

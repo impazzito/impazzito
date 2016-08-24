@@ -9,10 +9,11 @@ tags:
 
 La vicenda parla da sola:
 
-> Un ex vigile urbano di Ancona, Dante Svarca, leader dell’UAAR marchigiana, ha recentemente presentato un esposto a carico del vescovo, mons. Edoardo Menichelli, accusandolo di “plateale abuso della credulità popolare”, per aver presentato ai fedeli l’eucaristia come il miracolo della transustanziazione, affermando la presenza effettiva nell’ostia consacrata della vera e viva carne di Gesù.> 
+> Un ex vigile urbano di Ancona, Dante Svarca, leader dell’UAAR marchigiana, ha recentemente presentato un esposto a carico del vescovo, mons. Edoardo Menichelli, accusandolo di “plateale abuso della credulità popolare”, per aver presentato ai fedeli l’eucaristia come il miracolo della transustanziazione, affermando la presenza effettiva nell’ostia consacrata della vera e viva carne di Gesù.
+> 
 > [Dante Svarca denunciato per vilipendio alla religione](http://www.uccronline.it/2011/02/08/dante-svarca-il-vigile-urbano-delluaar-denunciato-per-vilipendio-alla-religione/)
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2011/10/img_0696.jpg "img_0696")](http://impazzito.it/sites/impazzito.it/uploads/2011/10/img_0696.jpg)
+[![](/uploads/2011/10/img_0696.jpg "img_0696")](/uploads/2011/10/img_0696.jpg)
 
 Genio!
 
@@ -24,6 +25,6 @@ A tutto questo Dante Svarca, eroe laico, ha detto no.
 
 Ha detto no, a cazzo dritto contro il martellamento mediatico perpetrato per millenni a danno della nostra sanità mentale.
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")](http://impazzito.it/sites/impazzito.it/uploads/2009/09/completamente-impazzito.png)
+[![](/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")](/uploads/2009/09/completamente-impazzito.png)
 
 Dante Svarca, sei tutti noi.

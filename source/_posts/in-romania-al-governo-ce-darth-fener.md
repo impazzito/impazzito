@@ -18,6 +18,6 @@ In una normale discussione amici di sinistra lamentandosi dicono:
 *   **3**: Per strada ci stanno i camminatori!!
 *   _Altre risate_
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2010/11/darth-vader-disegno-300x240.jpg "darth-vader disegno")](http://impazzito.it/sites/impazzito.it/uploads/2010/11/darth-vader-disegno.jpg)
+[![](/uploads/2010/11/darth-vader-disegno-300x240.jpg "darth-vader disegno")](/uploads/2010/11/darth-vader-disegno.jpg)
 
 In effetti se ti ritrovi Darth Fener al potere, con esercito e camminatori che sparano raggi laser per strada puoi stare tranquillo che i fondi per gli zingari li hanno tagliati da un pezzo.

@@ -9,7 +9,7 @@ categories:
 date: 2009-12-01 14:20:49
 ---
 
-![Premio del mese impazzito.it](http://impazzito.it/sites/impazzito.it/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")Non c'è alcun dubbio, lo staff di Impazzito.it conferisce all'unaminità il premio impazzito.it del mese al comune di [Coccaglio](http://maps.google.com/?q=Coccaglio&output=embed "Mappa di Coccaglio"), un ridente paesino fascistello vicino Brescia.
+![Premio del mese impazzito.it](/uploads/2009/09/completamente-impazzito.png "completamente-impazzito")Non c'è alcun dubbio, lo staff di Impazzito.it conferisce all'unaminità il premio impazzito.it del mese al comune di [Coccaglio](http://maps.google.com/?q=Coccaglio&output=embed "Mappa di Coccaglio"), un ridente paesino fascistello vicino Brescia.
 
 A quanto pare, per il bianco natale, l'amministrazione di destra (sindaco e tre assessori leghisti, altri tre Pdl), ha deciso che vuole festeggiare il natale tra bianchi. Da qui il nome, **White Christmast**. L'obiettivo è semplice:** setacciare porta a porta le 400 abitazioni del comune con extracomunitari e sfrattare (entro il 25 dicembre) gli immigrati non in regola**.
 

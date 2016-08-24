@@ -23,7 +23,7 @@ _E' come per la cerimonia, gli invitati e tutti gli altri._
 Vi voglio bene, grazie per essere venuti, la bambina è bellissima.
 Ora se non vi dispiace vado su a fare un giro su quel culo che mi sono sposato, se possibile.
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2012/08/wedding-kiss.jpg "wedding-kiss")](http://impazzito.it/sites/impazzito.it/uploads/2012/08/wedding-kiss.jpg)
+[![](/uploads/2012/08/wedding-kiss.jpg "wedding-kiss")](/uploads/2012/08/wedding-kiss.jpg)
 
 Invece no.
 Lui rimane.

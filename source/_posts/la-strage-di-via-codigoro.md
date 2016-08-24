@@ -34,7 +34,7 @@ Quindi si svegliano alle 7 vanno da Bartoli, si scolano due medie chiare, si spa
 Eccoli qui.
 **Fottuti Porci Incestuosi.**
 
-[![](http://farm2.static.flickr.com/1165/669025702_5bf7054869.jpg)](http://www.flickr.com/photos/riccardodivirgilio/669025702/)
+[![](/uploads/2007/strage-1.jpeg)](http://www.flickr.com/photos/riccardodivirgilio/669025702/)
 
 E' in giorni come questi che vorrei essere nato in qualche fottuta cittadina dell'Illinois, in cui avrei avuto tutto il tempo per ordinarmi il mio piccolo regalo di laurea.
 
@@ -44,11 +44,11 @@ E' in giorni come questi che vorrei essere nato in qualche fottuta cittadina del
 
 Starei qui, **godendomi questo mattino di calma e rilassatezza a 230 decibel**, pensando che entro qualche ora sarebbe arrivato il mio pacchetto.
 
-<span style="display: block; margin-top: 5px; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: #f5f5f5; position: relative; zoom: 1; background-position: initial initial; padding: 5px; border: 1px solid #cccccc;">Ci sono cose che non si possono comprare.</span>
+Ci sono cose che non si possono comprare.
 **Cazzate.**
 900 dollari, spedizione gratuita.
 
-![](http://upload.wikimedia.org/wikipedia/en/c/c7/Mp5k_brief.jpg)
+![](/uploads/2007/strage-2.jpeg)
 
 [Heckler &amp; Koch MP5](http://it.wikipedia.org/wiki/Heckler_%26_Koch_MP5).
 Tedesco.
@@ -74,8 +74,9 @@ Solo [Wolfgang Amadeus Mozart](http://www.lastfm.it/music/Wolfgang+Amadeus+Moza
 
 Sparando in coincidenza col martello pneumatico, non dovrei fare rumore.
 
-[![](http://farm2.static.flickr.com/1174/668338987_d11de904a7.jpg)](http://www.flickr.com/photos/riccardodivirgilio/668338987/)
-[![](http://farm2.static.flickr.com/1079/669408422_c5bc52323a.jpg)](http://www.flickr.com/photos/riccardodivirgilio/669408422/)
+[![](/uploads/2007/strage-3.jpeg)](http://www.flickr.com/photos/riccardodivirgilio/668338987/)
+
+[![](/uploads/2007/strage-4.jpeg)](http://www.flickr.com/photos/riccardodivirgilio/669408422/)
 
 Martello pneumatico.
 Martello pneumatico più forte.

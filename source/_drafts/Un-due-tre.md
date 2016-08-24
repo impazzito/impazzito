@@ -49,7 +49,7 @@ Contare fino a: <select id="settings_deck_number">
 </form> 
 <div id="test_deck_results"></div>
 
-<script type="text/javascript" src="/sites/impazzito.it/uploads/statics/js/deck.js?v=1.01"></script>
+<script type="text/javascript" src="/uploads/statics/js/deck.js?v=1.01"></script>
 <script type="text/javascript">
 jQuery.noConflict();
 jQuery(document).ready(function() {

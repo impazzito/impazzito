@@ -14,4 +14,4 @@ Mi hai rubato i migliori anni della mia vita (cit Renato Zero)
 
 **RIDAMMI I CAPELLI SILVIO!!!!**
 
-[![](http://impazzito.it/sites/impazzito.it/uploads/2011/11/silvioridammiicapelli.jpg "silvioridammiicapelli")](http://impazzito.it/sites/impazzito.it/uploads/2011/11/silvioridammiicapelli.jpg)
+[![](/uploads/2011/11/silvioridammiicapelli.jpg "silvioridammiicapelli")](/uploads/2011/11/silvioridammiicapelli.jpg)

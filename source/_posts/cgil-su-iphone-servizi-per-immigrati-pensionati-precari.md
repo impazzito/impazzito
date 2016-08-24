@@ -21,7 +21,7 @@ La CGIL ha lanciato una [applicazione per iphone](http://www.primaonline.it/2009
 Per sperimentare nuove forme di connessione, dice.
 **Questa è la pubblicità che ho progettato per il lancio**, spero sia di loro gradimento.
 
-[![CGIL su iphone. Servizi per immigrati, pensionati, precari.](http://impazzito.it/sites/impazzito.it/uploads/2009/10/3973112084_b2c9095ee3_o.jpg)](http://www.flickr.com/photos/riccardodivirgilio/3973112084/ "CGIL su iphone. Servizi per immigrati, pensionati, precari. by riccardodivirgilio, on Flickr")
+[![CGIL su iphone. Servizi per immigrati, pensionati, precari.](/uploads/2009/10/3973112084_b2c9095ee3_o.jpg)](http://www.flickr.com/photos/riccardodivirgilio/3973112084/ "CGIL su iphone. Servizi per immigrati, pensionati, precari. by riccardodivirgilio, on Flickr")
 
 ## Un iphone costa più di 500 euro...
 
