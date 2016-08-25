@@ -5,11 +5,11 @@ categories:
   - Deliri
 date: 2016-08-25 23:06:59
 tags:
+photos:
+  - /uploads/2016/vasco-rossi.jpg
 ---
 
 Se avesse avuto le palle, Vasco, avrebbe scritto una _vita spericolata_ nell'unico modo in cui sarebbe stata veramente capita dagli italiani.
-
-![](/uploads/2016/vasco-rossi.jpg)
 
 Nell'oltreoceano c'è il sogno americano.
 Il sogno americano, tu lavori, ti apri una società, fai grossi affari, speculazioni.
