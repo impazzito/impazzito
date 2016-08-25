@@ -20,15 +20,16 @@ header
         display inline-block
         color $siteAColor
         font-weight bolder
-        background-color $siteABgColor
         line-height 3rem
         height 3rem
-        padding 0 1rem
-        -webkit-transition padding 0.3s ease-out
-        transition padding 0.3s ease-out
+        padding 0 1rem 0 3rem
+        -webkit-transition background-color 0.3s ease-out
+        transition background-color 0.3s ease-out
+        background $siteABgColor url(../../images/logo-white.svg) 1rem center no-repeat
+        background-size 13px 13px
 
         &:hover
-          padding: 0 1.5rem
+          background-color red
 
     .site-description
       color $siteDescColor
