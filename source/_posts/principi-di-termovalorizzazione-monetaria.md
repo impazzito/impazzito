@@ -24,7 +24,7 @@ Riassumiamo le basi per i profani:
 > **[Herbert Kappler](http://it.wikipedia.org/wiki/Herbert_Kappler) - Principi di termovalorizzazione semplice**
 [![Esci di qui](/uploads/2009/09/escidiqui.png "Esci di qui")](http://www.mormoni.com/)
 Se credete che questo sia troppo per voi,** vi invitiamo a lasciare il sito con il tasto qui a destra**, altrimenti continuiamo il nostro iter nelle origini del sistema monetario che tanto ha fatto parlare di se.
-unquote
+
 
 ## 1\. Le origini
 

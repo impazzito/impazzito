@@ -37,7 +37,7 @@ Quindi perchè non parlare anche di due dei, l'uno in lotta con l'altro, entramb
 Da qui, la mia teoria del Dio Risiko.
 
 ![](/uploads/2007/risiko-tanks.jpg)
-unquote
+
 Fondamentalmente ne servono due perchè è in questo modo che riusciamo a capire le differenze tra luce ed ombra. Il creato funziona ed è in ordine grazie al famoso gioco degli opposti che si attraggono.
 Gli opposti si attraggono e creano qualcosa di nuovo e di fantastico. Protoni ed elettroni insieme formano l'atomo, maschi e femmine danno alla luce i figli.
 **Il Dio Gamma ed il Dio Beta danno luogo all'universo.**

@@ -23,7 +23,7 @@ Per una settimana sono stato sotto esame, il mio cazzo di ultimo esame ed ho dov
 Insomma, immaginate il mio stress.
 **Si trattava del mio ultimo cazzo di esame, dopo il quale mi aspettano 40 anni di produci-consuma-crepa.**
 Tutto quello che chiedevo era che almeno oggi avrei potuto rompere il cuscino con il mio russare.
-unquote
+
 Fottuti vicini.
 Loro non ci sono e lasciano qua a lavorare 2 rumeni presi a caso.
 Ma a questi rumeni che lavorano in nero non gliene frega un cazzo che oggi sia sabato, perchè sono dei poveri cristi proletari.

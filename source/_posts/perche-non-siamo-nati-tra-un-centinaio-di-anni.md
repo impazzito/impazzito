@@ -14,7 +14,7 @@ abbiamo speso diverse serate con [Giorgio](http://www.lastfm.it/user/Jazz83) pe
 la conclusione è stata che:
 <span style="display: block; margin-top: 5px; margin-right: 0px; margin-bottom: 1.5em; margin-left: 0px; background-image: initial; background-repeat: initial; background-attachment: initial; -webkit-background-clip: initial; -webkit-background-origin: initial; background-color: #f5f5f5; position: relative; zoom: 1; background-position: initial initial; padding: 5px; border: 1px solid #cccccc;">**prima o poi ci toccherà mettere un microchip nel cervello.**
 non si scappa.</span>
-unquote
+
 **ovviamente **le orecchie saranno collegate a degli auricolari impiantati per ascoltare musica quando si vuole.
 poi ci saranno delle lenti a contatto LCD, sulle quali viene proiettato un film, uno diverso su ogni lente per dare l'effetto profondità (**ovviamente**).
 non ci saranno, invece, quelle cazzate alla Johnny Mnemonic, cioè che ti staccano il cervello per infilarci un disco fisso. ma che cazzo...

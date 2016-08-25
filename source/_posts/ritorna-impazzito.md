@@ -14,7 +14,7 @@ date: 2009-09-03 16:06:43
 La lunga assenza è durata qualche anno. E' stata causata principalmente da un evento contingente del tutto insapettato.
 
 [Tophost](http://www.tophost.it/), **il mio provider, mi ha cancellato il sito pechè non gli ho pagato i 9€ annui**. 9€ sono una cifra talmente ridicola che non me ne ero minimamente curato.
-unquote
+
 **Incazzato con Tophost come una jena per mesi sono sclerato ancora di più**, non sapendo cosa fare di fronte ad una macchina automatizzata che cancella tutto alla scadenza..
 Nella realtà, nella mia casella postale dello spam, **mi sono arrivate queste mail**:
 > Mancano 3 giorni alla scadenza di impazzito.it

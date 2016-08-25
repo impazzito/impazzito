@@ -20,7 +20,7 @@ E insomma con 58 persone dentro casa a capodanno mi aspettavo che ci sarebbe sca
 **Ma non mi aspettavo un olocausto del genere!**
 Se non fosse stato per lui io ieri avrei lavorato circa quattro ore in meno, **è stato una mina antiuomo.**
 _L'opera del Rutili è un decalogo che ora esporrò:_
-unquote
+
 1. capisce di sentirsi male e si getta al centro del salone, sullo sgabello del pianoforte con mille persone affianco e **vomita sui piedi di qualcuno.**
 2. a questo punto rassicura il padrone di casa che gentilmente lo accompagna fuori nel giardino bestemmiando a raffica nella sua testa.
 3. **vomita ancora.**

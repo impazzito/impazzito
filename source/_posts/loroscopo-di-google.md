@@ -17,7 +17,7 @@ L’altro giorno apro la mia [home page personalizzata](http://www.google.it/ig
 Premetto che io non leggo MAI quelle cazzate (essendo nichilista). Tuttavia Google me lo aveva consigliato, ed io ascolto Google più di quanto ascolti mamma.
 
 ![](http://farm1.static.flickr.com/167/371797820_8122761954.jpg)
-unquote
+
 Insomma diceva questo:
 _Lavoro e studio in crescendo grazie a questo mese ricco di opportunità, _**_specie se lavori nel mondo della comunicazione e della stampa_**_. Puoi occuparti di progetti importanti e puntare su obiettivi di ampio respiro. La vita sociale è intensa, specie in serata quando le tue loquacità e socievolezza sono al top. L’intesa è speciale con il Capricorno._
 

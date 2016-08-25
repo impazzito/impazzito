@@ -13,7 +13,7 @@ La mia vista è sta peggiorando.
 La miopia è in caduta libera e l'astigmatismo incalza... niente di preoccupante, cioè niente di progressivo...
 
 Insomma pare proprio che la Chiesa abbia ragione nell'affermare una relazione lineare tra i pornazzi e la cecità... Poi io oramai ho anche acquisito notevoli prove empiriche: [Carlo](http://www.murderbynumbers.it/), [Giorgio](http://www.lastfm.it/user/Jazz83/) e [Stefano](http://www.lastfm.it/user/Ex-Stefano/), solo per dirne alcuni. Sono in ordine di cecità, e sono accomunati da cronologie del browser che fanno una sega a quella di [Schicchi](http://it.wikipedia.org/wiki/Riccardo_Schicchi) (eheh, capito il sottile doppio-senso?!).
-unquote
+
 Pare che gli unici in regola siano [Claudio](http://sickboy83.spaces.live.com/) ed [Adriano](http://www.lastfm.it/user/Morris_Cole/), forse perché sono troppo impegnati a smanettare con Winning Eleven e Scudetto e quindi poi non riescono a fare i supplementari in bagno.
 
 Insomma nuovi dati si sono aggiunti ed hanno dato tutt'altro spessore a questa nota ed ormai certa teoria. **Il Vaticano però sarà sicuramente tropo bigotto per allargare questa teoria.**
