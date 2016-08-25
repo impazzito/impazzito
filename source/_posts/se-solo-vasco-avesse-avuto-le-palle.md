@@ -1,35 +1,27 @@
 ---
-title: Se solo vasco avesse avuto le palle
+title: Se solo Vasco avesse avuto le palle
 id: 561
 categories:
   - Deliri
+date: 2016-08-25 23:06:59
 tags:
 ---
 
-Se avesse avuto le palle, Vasco, avrebbe scritto la vita spericolata nell'unico modo in cuji sarebbe stata veramente capita dagli italiani
+Se avesse avuto le palle, Vasco, avrebbe scritto la vita spericolata nell'unico modo in cui sarebbe stata veramente capita dagli italiani.
 
 Nell'oltreoceano c'è il sogno americano.
 Il sogno americano, tu lavori, ti apri una società, fai grossi affari, speculazioni.
-Una sacco di transazioni, tutte legali, tutte fatturate.
-E a noi italietta, si sa, questo sogno non è mai piaciuto.
-Non perchè qua in italianon si sognino ricchezze. Anzi.
-Si sognano eccome.
-E' solo che a noi le la parola Fattura non c'è mai piaciuta.
-Si ma dai te la scarichi.... non fa molta presa sui più.
+Una sacco di transazioni, tutto fatturato, tutte scatole di società che fatturano a vicenda e spostano tutti i costi in Irlanda, una roba complicatissima, alla Google per capirci.
+Ma in Italia, si sa, questo sogno non è mai piaciuto.
+**A noi le la parola _fattura_ non c'è mai piaciuta.**
 
-Così il sogno italiano è tutto, tutto e subito.
+Perchè l'italiano non ha tempo di aspettare, la sera deve _scopare_.
 Sticazzi di domani, stikazzi dei contributi, della pensione.
-I soldi qua, la genti li vuole tutti, subito e soprattutto a nero!
+I soldi qua, la gente li vuole tutti, subito e soprattutto a **nero**!
 
-Chi ha studiato economia saprà che le persone che esiste uno scambio temporale.
-Io scelgo di risparmiare soldi oggi per spenderli in futuro.
-Secondo le aspettative (e le preferenze) che uno ha sceglie questo scambio.
-Uno cor sordo in tasca, sceglie decisamente il soldo ora!
-Spiccio da spendere subito.
+Quindi se vasco avesse voluto parlare all'Italia avrebbe scritto un testo pressapoco così:
 
-Quindi se vasco avesse voluto parlare all'italia avrebbe scritto un testo pressapoco così:
-
-VOGLIO UNA VITA PIENA DE NERO
+> VOGLIO UNA VITA PIENA DE NERO
 DI QUELLE VITE FATTE FATTE COSI' 
 VOGLIO UNA VITA COI SORDI SPICCI
 CHE SE NE FREGA DI TUTTO SI' 
@@ -52,7 +44,7 @@ VOGLIO UNA VITA 'NDO LAVORI FINO A TARDI
 DI QUELLE CHE 'NDO NUN DICHIARI MAI 
 VOGLIO UNA VITA, LA VOGLIO PIENA DE NERO
 
-E POI CI TROVEREMO COME LE STAR 
+> E POI CI TROVEREMO COME LE STAR 
 A PAGA' LE MIGNOTTE AL ROXY BAR 
 O FORSE NON C'INCONTREREMO MAI 
 OGNUNO A SCAPPARE DAI SUOI GUAI 
@@ -61,7 +53,7 @@ OGNUNA DIVERSA
 E OGNUNA IN FONDO SEMPRE 
 SENZA NA FATTURA
 
-VOGLIO UNA VITA MALEDUCATA 
+> VOGLIO UNA VITA PIENA DI NERO
 DI QUELLE VITE FATTE FATTE COSI' 
 VOGLIO UNA VITA DO NUN FATTURI
 CHE SE NE FREGA DELLE GUARDIE SI' 
@@ -70,7 +62,7 @@ DI QUELLE CHE NUN DICHIARI MAI
 VOGLIO UNA VITA 
 VEDRAI CHE VITA VEDRAI 
 
-E POI CI TROVEREMO COME LE STAR 
+> E POI CI TROVEREMO COME LE STAR 
 A PAGA' LE MIGNOTTE AL ROXY BAR 
 O FORSE NON C'INCONTREREMO MAI 
 OGNUNO A SCAPPARE DAI SUOI GUAI 
