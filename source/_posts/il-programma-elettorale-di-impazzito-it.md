@@ -29,8 +29,14 @@ Era considerato follia dare ad un privato il potere di signoraggio. A questo pot
 8.  **Consumi completamente detraibili dalla dichiarazione dei redditi**. Qualsiasi scontrino può essere scalato dalle tasse, tramite tesserino sanitario. Evasione fiscale polverizzata, i cittadini hanno interesse a farsi fare scontrini e fatture.
 9.  **5 anni a tasse 0 per chi investe in energie rinnovabili ed in opere a tutela del patrimonio artistico nazionale**.
 10.  **Prostituzione e droghe legalizzate**. Con questa mossa, le entrate della mafia servirebbero a costruire cliniche e welfare per persone che comunque sarebbero drogate, e case chiuse per donne che comunque sarebbero mignotte. E ci avanzerebbe anche un altro gruzzoletto per fare il cazzo che ci pare.
-<div>In questo modo, l'ingerenza del Vaticano sarebbe arginata, la corruzione nello Stato disintegrata e le entrate della mafia completamente azzerate.</div>
-<div>Con questo programma elettorale si risolvono magicamente tutti i problemi di mancanza di liquidità, abolendo i veri sperchi ed assicurandoci entrate sicure. Infatti il l'arbitraggio e ed il signoraggio, un tempo pratiche di guadagno affidate ai governanti, ora sono entrate enormi per soggetti privati che possono comprare la democrazia ed i nostri governanti.</div>
-<div>Questo è il programma che dobbiamo attuare, e **non possiamo aspettare che l'Estamblishment decida di essere compassionevole e di ridarci ciò di cui ci ha privato nel corso dei secoli**, con il potere delle fonti energetiche, del signoraggio e della coercizione.</div>
-<div>Riprendiamoci lo stato di diritto, **è ora di un nuovo contratto sociale**.</div>
-<div>Appoggia a cazzo dritto il movimento Impazzito.</div>
+
+In questo modo, l'ingerenza del Vaticano sarebbe arginata, la corruzione nello Stato disintegrata e le entrate della mafia completamente azzerate.
+
+Con questo programma elettorale si risolvono magicamente tutti i problemi di mancanza di liquidità, abolendo i veri sperchi ed assicurandoci entrate sicure. 
+Infatti il l'arbitraggio e ed il signoraggio, un tempo pratiche di guadagno affidate ai governanti, ora sono entrate enormi per soggetti privati che possono comprare la democrazia ed i nostri governanti.
+
+Questo è il programma che dobbiamo attuare, e **non possiamo aspettare che l'Estamblishment decida di essere compassionevole e di ridarci ciò di cui ci ha privato nel corso dei secoli**, con il potere delle fonti energetiche, del signoraggio e della coercizione.
+
+Riprendiamoci lo stato di diritto, **è ora di un nuovo contratto sociale**.
+
+Appoggia a cazzo dritto il movimento Impazzito.

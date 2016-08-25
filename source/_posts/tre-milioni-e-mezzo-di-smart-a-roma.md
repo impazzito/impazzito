@@ -26,7 +26,7 @@ Dimostramogli che hanno torto, scendiamo in piazza. Con stile.
 [![Scendi in piazza. In smart!](http://farm3.static.flickr.com/2766/4447124463_09148755b8.jpg)](http://farm3.static.flickr.com/2766/4447124463_09148755b8_b.jpg "Scendi in piazza. In smart!")
 
 Oggi, 20 marzo, ben **tre milioni e mezzo di smart hanno bloccato tutta Roma!
-<span style="font-weight: normal;">Il popolo delle libertà, è presente e sotto gli occhi di tutti. Di tutti quelli che dicono che Berlusconi è morto e che appartiene al passato.</span> **
+Il popolo delle libertà, è presente e sotto gli occhi di tutti. Di tutti quelli che dicono che Berlusconi è morto e che appartiene al passato.**
 
 [![Le forze dell](http://farm3.static.flickr.com/2677/4447125589_c1a0b2bab1_o.png)](http://farm3.static.flickr.com/2677/4447125589_c1a0b2bab1_o.png "Le forze dell")
 

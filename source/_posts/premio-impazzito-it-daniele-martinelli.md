@@ -13,7 +13,7 @@ Signori e signori, il premio impazzito.it del mese lo vince a mani basse Daniele
 
 Parecchio libero, dato che si è espresso in una grande invettiva epica contro Taricone, che viene usato dalle tv minzoliniane per distogliere l'attenzione dalle malefatte del governo.
 
-[caption id="attachment_330" align="alignnone" width="367" caption="Daniele Martinelli è Completamente Impazzito"][![Daniele Martinelli è Completamente Impazzito](/uploads/2010/07/Daniele-Martinelli.jpg "Daniele-Martinelli")](/uploads/2010/07/Daniele-Martinelli.jpg)[/caption]
+[![](/uploads/2010/07/Daniele-Martinelli.jpg "Daniele-Martinelli")](/uploads/2010/07/Daniele-Martinelli.jpg)
 
 Un suo post finisce così. 
 > Per me non fa differenza vita e morte. Un valido pirla da vivo rimane valido pirla anche da morto. Pure qui, in questa penisola di falsi miti, di luoghi comuni e di non luogo a procedere, ammorbata da un esercito di tele-deficienti dediti all’applauso e al vacuo piagnisteo.
