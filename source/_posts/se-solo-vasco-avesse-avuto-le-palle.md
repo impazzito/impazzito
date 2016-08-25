@@ -15,7 +15,7 @@ Nell'oltreoceano c'è il sogno americano.
 Il sogno americano, tu lavori, ti apri una società, fai grossi affari, speculazioni.
 Una sacco di transazioni, tutto fatturato, tutte scatole di società che fatturano a vicenda e spostano tutti i costi in Irlanda, una roba complicatissima, alla Google per capirci.
 Ma in Italia, si sa, questo sogno non è mai piaciuto.
-**A noi le la parola _fattura_ non c'è mai piaciuta.**
+**In Italia la parola _fattura_ non è mai piaciuta.**
 
 Perchè l'italiano non ha tempo di aspettare, la sera deve _scopare_.
 Sticazzi di domani, stikazzi dei contributi, della pensione.
