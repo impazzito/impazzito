@@ -64,12 +64,10 @@
 
   <meta property="og:site_name" content="<%= config.title %>"/>
 
-  <% if(page.cover) { %>
-  <meta property="og:image" content="<%= page.cover %>" />
+  <% if(page.cover || page.photos) { %>
+  <meta property="og:image" content="<%= page.cover || page.photos[0] %>" />
   <% } else if(config.cover) { %>
   <meta property="og:image" content="<%= config.cover %>"/>
-  <% } else { %>
-  <meta property="og:image" content="<%- config.root %>favicon.ico"/>
   <% } %>
 
   <link href="<%- config.root %>favicon.ico" rel="icon">
