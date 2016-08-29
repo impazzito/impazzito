@@ -16,9 +16,13 @@ O magari so frocio, ma cmq i Pokemon fanno schifo al cazzo.
 
 Quindi da qui un format per un gioco geniale, che Impazzito.it insieme ai suoi fan potrebbe produrre su kickstarter chiamato _Zombie GO!_
 
-Il gameplay può essere strutturato in diversi modi in funzione del grado di danni collaterali da causare alla società, **i personaggi dovranno giocare e combattere nel mondo vero**, ma l'importante è avere gente tosta e motivata come al [The Running Man](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29).
+Il gameplay può essere strutturato in diversi modi in funzione del grado di danni collaterali da causare alla società, **i personaggi dovranno giocare e combattere nel mondo vero**, una scusa perfetta per massacrare di botte la gente intorno a te.
 
-[![](/uploads/2016/ben-richards.jpeg "Ben Richards è ansioso di giocare a Zombie GO!")](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29)
+
+Speriamo presto di vedere gente tosta come [Ben Richards](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29) all'opera.
+
+[![](/uploads/2016/ben-richards.jpeg "Ben Richards è ansioso di giocare a Zombie GO!")](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29) 
+<small>_(se non sai chi sia Ben Richards o hai 20 anni o hai passato una infanzia dimmerda)_.</small>
 
 ### Nessun danno collaterale.
 
