@@ -4,6 +4,7 @@ tags:
  - Giochi
 photos:
   - /uploads/2016/zombie-go.svg
+cover: /uploads/2016/ben-richards.jpeg
 ---
 
 **Pokemen GO**. Una idea fichissima fatta con un soggetto di merda.
@@ -17,7 +18,7 @@ Quindi da qui un format per un gioco geniale, che Impazzito.it insime ai suoi fa
 
 Il gameplay può essere strutturato in diversi modi a seconda del grado di danni collaterali che vogliamo causare alla società, **i personaggi dovranno giocare e combattere nel mondo vero**, e vogliamo solo gente tosta come al [The Running Man](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29).
 
-[![](/uploads/2016/ben-richards.jpeg)](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29)
+[![](/uploads/2016/ben-richards.jpeg "Ben Richards è ansioso di giocare a Zombie GO!")](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29)
 
 ### Nessun danno collaterale.
 
