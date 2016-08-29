@@ -33,7 +33,7 @@ Speriamo presto di vedere gente tosta come [Ben Richards](https://en.wikipedia.o
 ### Danni collaterali consenzienti.
 
  - Il giocatore si iscrive come Zombie o come Cacciatore.
- - Dopo aver attivato la fotocameram, l'app sostiuisce ai giocatori presenti degli Zombie o dei Cacciatori a seconda della classe scelta.
+ - Dopo aver attivato la fotocamera, l'app sostiuisce ai giocatori presenti degli Zombie o dei Cacciatori a seconda della classe scelta.
  - Il giocatore **raggiunge un altro giocatore qualsiasi e la riempie di cazzotti in faccia**.
  - Una volta che il giocatore rivale si trova in terra l'app assegna la vittoria ed i punti esperienza in proporzione al grado dell'avversario.
 
