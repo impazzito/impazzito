@@ -27,20 +27,20 @@ Speriamo presto di vedere gente tosta come [Ben Richards](https://en.wikipedia.o
 ### Nessun danno collaterale.
 
  - Il giocatore si iscrive come Preda.
- - Puntando la telecamera, vengono immessi dei zombie nell'ambiente circostante che, ovviamente, sono molto interessati al giocatore Preda.
+ - Dopo aver attivato la fotocamera, vengono immessi dei zombie nell'ambiente circostante che, ovviamente, sono molto interessati al giocatore Preda.
  - Correrre, correre, correre, fino a che non si raggiunge un rifugio.
 
 ### Danni collaterali consenzienti.
 
- - Si decide se si vuole giocare come Zombie o come Cacciatore.
- - Si punta la fotocamera verso la realtà e l'app sostiuisce ai giocatori Zombie o un Cacciatori a seconda della classe scelta.
+ - Il giocatore si iscrive come Zombie o come Cacciatore.
+ - Dopo aver attivato la fotocameram, l'app sostiuisce ai giocatori presenti degli Zombie o dei Cacciatori a seconda della classe scelta.
  - Il giocatore **raggiunge un altro giocatore qualsiasi e la riempie di cazzotti in faccia**.
  - Una volta che il giocatore rivale si trova in terra l'app assegna la vittoria ed i punti esperienza in proporzione al grado dell'avversario.
 
 ### Danni collaterali apocalittici.
 
  - Il giocatore si iscrive come Cacciatore.
- - Si punta la fotocamera verso la realtà e tutte le persone diventano Zombie.
+ - Dopo aver attivato la fotocamera tutte le persone diventano Zombie.
  - Il giocatore **raggiunge una persona qualsiasi e la riempie di cazzotti in faccia**.
  - Il numero di punti esperienza dipende da alcuni fattori:
     - **Vecchi e bambini valgono doppio**.
