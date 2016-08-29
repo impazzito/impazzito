@@ -14,15 +14,15 @@ cover: /uploads/2016/ben-richards.jpeg
 
 O magari so frocio, ma cmq i Pokemon fanno schifo al cazzo.
 
-Quindi da qui un format per un gioco geniale, che Impazzito.it insime ai suoi fan potrebbe produrre su kickstarter chiamato _Zombie GO!_
+Quindi da qui un format per un gioco geniale, che Impazzito.it insieme ai suoi fan potrebbe produrre su kickstarter chiamato _Zombie GO!_
 
-Il gameplay può essere strutturato in diversi modi a seconda del grado di danni collaterali che vogliamo causare alla società, **i personaggi dovranno giocare e combattere nel mondo vero**, e vogliamo solo gente tosta come al [The Running Man](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29).
+Il gameplay può essere strutturato in diversi modi in funzione del grado di danni collaterali da causare alla società, **i personaggi dovranno giocare e combattere nel mondo vero**, ma l'importante è avere gente tosta e motivata come al [The Running Man](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29).
 
 [![](/uploads/2016/ben-richards.jpeg "Ben Richards è ansioso di giocare a Zombie GO!")](https://en.wikipedia.org/wiki/The_Running_Man_%281987_film%29)
 
 ### Nessun danno collaterale.
 
- - Il giocatore si iscrive come Preda
+ - Il giocatore si iscrive come Preda.
  - Puntando la telecamera, vengono immessi dei zombie nell'ambiente circostante che, ovviamente, sono molto interessati al giocatore Preda.
  - Correrre, correre, correre, fino a che non si raggiunge un rifugio.
 
@@ -44,4 +44,4 @@ Il gameplay può essere strutturato in diversi modi a seconda del grado di danni
     - Le urla causate generano direttamente punti esperienza.
     - Massacri multipli generano combo, le combo level hanno nomi accattivanti come quelli di Killer Instinct per fomentare la corsa al massacro come Triple, Super, Hyper, Brutal, Master, Awesome, Blaster, Monster, King, Killer e Ultra.
 
-La corsa comincia, chi verrà massacrato per primo?
+La corsa comincia, _chi verrà massacrato per primo?_
