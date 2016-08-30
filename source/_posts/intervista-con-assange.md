@@ -10,7 +10,8 @@ tags:
 
 Altro che intervista col vampiro.
 Basta ascoltare la prima frase dell'intervista per capire che ci troviamo di fronte ad uno che è talmente tanto impazzito da essere diventato lucidissimo.
-<div style="font-size: 16px; text-align: center; padding: 15px;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="480" height="385" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/37QIIX0uNI8?fs=1&amp;hl=it_IT" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="480" height="385" src="http://www.youtube.com/v/37QIIX0uNI8?fs=1&amp;hl=it_IT" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+{% youtube "37QIIX0uNI8" %}
 
 Youtube: Julian Assange [ parte 1](http://www.youtube.com/watch?v=37QIIX0uNI8) | [parte 2](http://www.youtube.com/watch?v=tqP4QLX4ZFQ)
 

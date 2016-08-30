@@ -13,4 +13,4 @@ L'unico modo per esserlo è dedicarsi (a cazzo dritto, ovviamente) all'arte.
 
 Ecco a voi un esempio di quello che da noi si chiama pazzo visionario fulminato portatore di luminanza.
 
-<iframe src="http://player.vimeo.com/video/16056709?title=0&amp;byline=0&amp;portrait=0&amp;autoplay=0" width="599" height="327" frameborder="0" webkitAllowFullScreen allowFullScreen></iframe>
+{% vimeo 16056709 %}

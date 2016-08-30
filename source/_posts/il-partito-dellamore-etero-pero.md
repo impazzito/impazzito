@@ -11,7 +11,7 @@ date: 2010-11-05 00:27:13
 
 **Questo filmato ha fatto il giro del mondo provocando scandalo ed il giro dell'italia provocando ilarità.**
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/d1RX_ppWuRg?fs=1&amp;hl=it_IT"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/d1RX_ppWuRg?fs=1&amp;hl=it_IT" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube "d1RX_ppWuRg" %}
 
 Copio ed incollo una serie di frasi che sono apparse sui video di Youtube e sui gruppi Facebook riportate oggi da [il Fatto](http://www.ilfattoquotidiano.it/). 
 

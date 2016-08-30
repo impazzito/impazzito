@@ -20,7 +20,7 @@ Essendo stati costretti con le spalle al muro, hanno deciso di organizzare una p
 
 La Ventura non si è accorta di nulla, ed ha intervistato il batterista, poichè in quel momento era il cantante...
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" width="425" height="344" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0"><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><param name="src" value="http://www.youtube.com/v/ispoFdWRXro&amp;hl=it&amp;fs=1&amp;color1=0x2b405b&amp;color2=0x6b8ab6" /><param name="allowfullscreen" value="true" /><embed type="application/x-shockwave-flash" width="425" height="344" src="http://www.youtube.com/v/ispoFdWRXro&amp;hl=it&amp;fs=1&amp;color1=0x2b405b&amp;color2=0x6b8ab6" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+{% youtube "ispoFdWRXro" %}
 
 Geniale... Un applauso da tutto lo staff di impazzito.it.
 

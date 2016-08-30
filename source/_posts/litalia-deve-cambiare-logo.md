@@ -28,4 +28,4 @@ _In effetti quell'italia lì può tenersela._
 L'Italia dei marchesi e dei vescovi.
 L'Italia dell'**io sono io e voi non siete un cazzo**.
 
-<object width="640" height="385"><param name="movie" value="http://www.youtube.com/v/uahU5m6Hvj4?fs=1&amp;hl=it_IT"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/uahU5m6Hvj4?fs=1&amp;hl=it_IT" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="640" height="385"></embed></object>
+{% youtube "uahU5m6Hvj4" %}

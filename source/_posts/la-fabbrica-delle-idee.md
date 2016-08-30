@@ -39,7 +39,7 @@ Svegliatevi, nessuno se ne prenderà carico.
 La democrazia immagina un mondo dove i cittadini, siano capaci di decidere per se stessi, immagina un mondo di individui complessi che attuano delle scelte che garantiscano i propri diritti, la propria libertà e nel contempo creino una società solidale ed equa.
 Quello che è sottinteso è un livello medio alto di istruzione, di conoscenza ed una buona e diffusa capacità di giudizio.
 
-<object width="480" height="385"><param name="movie" value="http://www.youtube.com/v/kj-EWuy2Wj0?fs=1&amp;hl=it_IT"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/kj-EWuy2Wj0?fs=1&amp;hl=it_IT" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="480" height="385"></embed></object>
+{% youtube "kj-EWuy2Wj0" %}
 
 **Io sono stufo di essere trattato come un bambino dallo stato.**
 

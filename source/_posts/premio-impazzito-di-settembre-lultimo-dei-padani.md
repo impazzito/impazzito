@@ -14,4 +14,4 @@ Un braveheart leghista, che a cazzo dritto ruba al sud per dare al nord!
 
 Vedetelo regà spacca i culi!
 
-<iframe width="560" height="315" src="http://www.youtube.com/embed/1Ttny8dWnqc" frameborder="0" allowfullscreen></iframe>
+{% youtube "1Ttny8dWnqc" %}

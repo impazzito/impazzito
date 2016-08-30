@@ -13,7 +13,7 @@ Io rimango basito davanti all'imbecillità del centro sinistra.
 L'altro giorno, su sky tg, mi ritrovo franceschini che dichiara una cosa del tipo:
 **Berlusconi se ha un po di dignità dovrebbe dimettersi.**
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" width="480" height="390" src="http://www.youtube.com/embed/Yf11BqoLFq4" frameborder="0" allowFullScreen></iframe>
+{% youtube "Yf11BqoLFq4" %}
 
 Ma sei coglione?
 Uno che fa i BUNGA BUNGA™.
