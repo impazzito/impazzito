@@ -24,7 +24,8 @@ Se una persona è riuscita a far condannare Google per una cosa del genere, dal 
 *   Un vandalo scrive sul muro di un ospedale "la fica puzza", il giorno dopo viene chiuso tutto il reparto.
 *   Un utente masterizza "Il Gladiatore" di Ridley Scott su un Dvd Sony, la Sony viene multata per non aver vigiliato sul contenuto del suo supporto.
 Aumentiamo di livello.
-> ![](http://www.padova24ore.it/images/stories/generiche/iphone-mobile-porn-.jpg "Porno iphone")A 13 anni inviava sue foto porno in cambio di ricariche del cellulare,prima ai compagni di scuola, poi ad altri giovani in Friuli e Veneto.La vicenda - riferita da Messaggero Veneto e Gazzettino - e' stata scoperta dai carabinieri di Tolmezzo che hanno sequestrato decine di telefonini e hard disc con foto e filmati della 13enne.Indagate 34 persone:29 sono minori,cinque hanno da poco superato i 18 anni.L'inchiesta scattata dopo un monitoraggio in alcuni comuni della fascia collinare friulana.
+> ![](http://www.padova24ore.it/images/stories/generiche/iphone-mobile-porn-.jpg "Porno iphone")
+> A 13 anni inviava sue foto porno in cambio di ricariche del cellulare,prima ai compagni di scuola, poi ad altri giovani in Friuli e Veneto.La vicenda - riferita da Messaggero Veneto e Gazzettino - e' stata scoperta dai carabinieri di Tolmezzo che hanno sequestrato decine di telefonini e hard disc con foto e filmati della 13enne.Indagate 34 persone:29 sono minori,cinque hanno da poco superato i 18 anni.L'inchiesta scattata dopo un monitoraggio in alcuni comuni della fascia collinare friulana.
 > [Ansa](http://www.ansa.it/web/notizie/regioni/friuliveneziagiulia/2010/04/14/visualizza_new.html_1762511719.html)
 Quindi **i genitori potrebbero far causa alla vodafone (od al tronchetto) per non aver vigilato sul contenuto degli mms porno** della loro figlia minorenne.
 
