@@ -24,10 +24,10 @@ Ma andiamo con ordine:
 
 5. Vista la proclamata emergenza medica sui social network il governo interviene di urgenza con un cazzo di __decreto legge__ (strumente che andrebbe usato solo in caso di emergenza), che, a cazzo di cane, ci fa diventare il __paese numero uno in europa per numero di vaccini obbligatori__.
 
-6. Decidiamo che dall'oggi al domani che tutti i bambini devono essere vaccinati, e stikazzi del problema tecnico di rimediare 12 * 8 milioni di farmaci (con quale copertura finanziaria poi?) perchè mica vorrai mettere un prezzo alla salute dei nostri figli?
+6. Decidiamo che dall'oggi al domani che tutti i bambini devono essere vaccinati, e stikazzi del problema tecnico di rimediare X milioni di farmaci (con quale copertura finanziaria poi?) perchè mica vorrai mettere un prezzo alla salute dei nostri figli?
 
 7. __Pena aumentata, problema risolto__. E vaffanculo prevenzione, educazione e controlli. Classica mentalità italiana: con una pena più severa la gente improvvisamente smette di essere cretina e comincia a comportarsi responsabilmente. 
 
-8. __Tutti contenti a condividere su facebook scrivendo "era ora!!!1!"__ e poi ovviamente non cambia un cazzo, perchè la gente cretina rimane cretina.
+8. __Tutti contenti a condividere su facebook scrivendo "era ora!!!1!"__ e poi ovviamente non cambia un cazzo, perchè la gente cretina rimane cretina, col risultato che ora devi sparare al tuo amato marmocchio di 5 kili un siluro di farmaci di dubbia provenienza ed utilità oppure sei na merda.
 
 Benvenuti nell'epoca delle leggi social, dove si fanno decreti per guadagnare consenso sui social network, cavalcando a cazzo duro l'irrazionalità della gente mentecatta.
