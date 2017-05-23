@@ -26,8 +26,7 @@ Ma andiamo con ordine:
 
 6. Decidiamo che dall'oggi al domani che tutti i bambini devono essere vaccinati, e stikazzi del problema tecnico di rimediare 12 * 8 milioni di farmaci (con quale copertura finanziaria poi?) perchè mica vorrai mettere un prezzo alla salute dei nostri figli?
 
-7. __Pena aumentata, problema risolto__. Classica mentalità italiana: con una pena più severa la gente improvvisamente smette di essere cretina e comincia a comportarsi responsabilmente. 
-Se la gente si ubbriaca il sabato sera e ficca sotto altra gente, a che serve fare prevenzione, educazione e controlli: basta una cazzo di legge che mette in galera la gente per 25 anni.
+7. __Pena aumentata, problema risolto__. E vaffanculo prevenzione, educazione e controlli. Classica mentalità italiana: con una pena più severa la gente improvvisamente smette di essere cretina e comincia a comportarsi responsabilmente. 
 
 8. __Tutti contenti a condividere su facebook scrivendo "era ora!!!1!"__ e poi ovviamente non cambia un cazzo, perchè la gente cretina rimane cretina.
 
