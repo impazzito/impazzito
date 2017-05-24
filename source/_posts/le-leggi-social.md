@@ -3,8 +3,8 @@ title: Leggi social per gente ritardata
 date: 2017-05-23 23:38:12
 tags:
 photos:
-  - /uploads/2016/crazy-mom.png
-cover: /uploads/2016/crazy-mom.png
+  - /uploads/2016/crazy-mom.jpg
+cover: /uploads/2016/crazy-mom.jpg
 ---
 I social network sono diventati un posto singolare.
 
