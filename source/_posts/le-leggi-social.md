@@ -8,7 +8,7 @@ cover: /uploads/2016/crazy-mom.png
 ---
 I social network sono diventati un posto singolare.
 
-__È assolutamente TRANQUILLA scrivere che i zingari andrebbero bruciati__, o inneggiare al Duce affinchè torni ad affondare i barconi di immigrati.
+__È assolutamente TRANQUILLA scrivere che "i zingari" andrebbero bruciati__, o inneggiare al Duce affinchè torni ad affondare i barconi di immigrati.
 
 Però se ti azzardi a parlare di vaccini, sei una merda, un grillino, un bambinocida.
 
