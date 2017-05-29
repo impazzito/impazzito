@@ -28,6 +28,6 @@ Ma andiamo con ordine:
 
 7. __Pena aumentata, problema risolto__. E vaffanculo prevenzione, educazione e controlli. Classica mentalità italiana: con una pena più severa la gente improvvisamente smette di essere cretina e comincia a comportarsi responsabilmente. 
 
-8. __Tutti contenti a condividere su facebook scrivendo "era ora!!!1!"__ e poi ovviamente non cambia un cazzo, perchè la gente cretina rimane cretina, col risultato che ora devi sparare al tuo amato marmocchio di 5 kili un siluro di farmaci di dubbia provenienza ed utilità oppure sei na merda.
+8. __Tutti contenti a condividere su facebook scrivendo "era ora!1!!!"__ e poi ovviamente non cambia un cazzo, perchè la gente cretina rimane cretina, col risultato che ora devi sparare al tuo amato marmocchio di 5 kili un siluro di farmaci di dubbia provenienza ed utilità oppure sei na merda.
 
 Benvenuti nell'epoca delle leggi social, dove si fanno decreti per guadagnare consenso sui social network, cavalcando a cazzo duro l'irrazionalità della gente mentecatta.
