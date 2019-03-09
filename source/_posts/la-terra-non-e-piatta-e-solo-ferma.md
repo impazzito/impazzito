@@ -29,7 +29,7 @@ Ovviamente non è mia intenzione deridere le teorie dei colleghi impazziti olter
 * La NASA mente, non siamo mai stati sulla Luna.
   * __Siamo stati sulla Luna, mentre lei girava tranquillamente con tutti gli altri astri del cielo intorno alla Terra.__
 
-## Il modello Elio Centrico
+## Il modello Elio centrico
 
 ![](/uploads/2019/eliocentrismo.jpg)
 
@@ -45,7 +45,7 @@ Potrei ovviamente elencare centinaia di inseattezze astronomiche delle teorie El
 * Il nostro pianeta, insieme al Sole, si muove ad una velocità ancora più folle verso/intorno qualche punto X dell'universo.
   * __Se la terra si muovesse sempre verso un punto X ad una velocità incredibile, qualsiasi oggetto che esce dall'atmosfera (astronauti, missioni spaziali, satelliti, etc...) dovrebbe vedere la Terra allontanarsi velocissima, alla stessa modo per cui un passeggero, saltando fuori da un aereoplano che viagga ad una velocità elevata, vedrebbe l'aereo allontanarsi velocissimo.__
 
-## Il modello Geo Centrico
+## Il modello Geo centrico
 
 ![](/uploads/2019/bartolomeu-velho-1568.jpg)
 
