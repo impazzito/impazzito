@@ -3,6 +3,8 @@ title: La terra non è piatta. È solo ferma.
 date: 2019-03-09 11:30:37
 tags:
 cover: /uploads/2019/flat-earth.jpg
+photos:
+  - /uploads/2019/flat-earth.jpg
 ---
 Il mondo è completamente impazzito. 
 Non si distingue più il vero dal falso, il mobile dall'immobile, __il tondo dal piatto.__
