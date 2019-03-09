@@ -18,7 +18,7 @@ Ho visto di recente un [documentario terrapiattista su netflixxo](https://www.ne
 ![](/uploads/2019/orlando-ferguson-flat-earth-map.jpg)
 
 Ma andiamo per ordine e vediamo di smontare punto punto le idiozie degli yankee con dei capisaldi che qui nel vecchio continente il modello geocentrico ha assodato da ormai centinaia di anni.
-Ovviamente non è mia intenzione deridere le teorie dei colleghi impazziti oltereoceano, vorrei semplicamente condividere con con la loro giovane ed inseperta nazione le scoperte in campo astronomico che vennero fatte dal Vaticano secoli addietro mentre il loro continente era ancora un insieme di selvaggi senza Dio troppo presi a tirarsi palle di cacca (rotonde) a vicenda.
+Ovviamente non è mia intenzione deridere le teorie dei colleghi impazziti oltereoceano, vorrei semplicamente condividere con con la loro giovane ed inseperta nazione le scoperte in campo astronomico che vennero consolidate dal Vaticano secoli addietro mentre nel nuovo continente un insieme di selvaggi senza Dio erano ancora presi a tirarsi palle di cacca (rotonde) a vicenda.
 
 * La Terra è piatta.
   * __La Terra non è piatta, è solo ferma.__
@@ -33,7 +33,7 @@ Ovviamente non è mia intenzione deridere le teorie dei colleghi impazziti olter
 
 ![](/uploads/2019/eliocentrismo.jpg)
 
-Esprimo tuttavia la mia solidarietà con i colleghi astronomi del nuovo continente, poichè sono corretti nell'affermare che in campo astronomico esistono moltissime teorie a dir poco ridicole e strampalate.
+Esprimo tuttavia la mia solidarietà con i colleghi astronomi del nuovo continente, poichè sono corretti nell'affermare che __in campo astronomico esistono moltissime teorie a dir poco ridicole e strampalate__.
 Anche noi, nel vecchio continente, dobbiamo confrontarci con teorie astronomiche eretiche, fatiscenti ed altrettanto risibili.
 Una di questa è il cosidetto eliocentrismo, una teoria ridicola per cui il nostro pianeta si muoverebbe a velocità folli intorno al Sole.
 
@@ -49,7 +49,7 @@ Potrei ovviamente elencare centinaia di inseattezze astronomiche delle teorie el
 
 ![](/uploads/2019/bartolomeu-velho-1568.jpg)
 
-A questo punto dovrebbe essere chiaro a tutti i lettori che il modello geocentrico è l'unico modello che spiega in maniera efficace ed intuitiva il mondo e lo spazio che ci circonda.
+A questo punto dovrebbe essere chiaro a tutti i lettori che __il modello geocentrico è l'unico modello che spiega in maniera efficace ed intuitiva il mondo e lo spazio che ci circonda__.
 
 Questo modello fornisce anche un ulteriore vantaggio telogico non indifferente.
 Se il pianeta Terra fosse veramente un __sercio lanciato a velocità folli__ all'interno di un universo sterminato, allora sarebbe facile cadere nel relativismo assoluto e non ci sarebbe nessuna conseguenza per azioni immorali quali ingropparsi la propria madre, __usare il reddito di cittadinanza per andare a mignotte__, bunga bunga etc...
