@@ -54,6 +54,8 @@ A questo punto dovrebbe essere chiaro a tutti i lettori che il modello GeoCentri
 Questo modello fornisce anche un ulteriore vantaggio teoretico non indifferente.
 Se il pianeta Terra fosse veramente un __sercio lanciato a velocità folli__ all'interno di un universo sterminato, allora sarebbe facile cadere nel relativismo assoluto e non ci sarebbe nessuna conseguenza per azioni immorali quali ingropparsi la propria madre, __usare il reddito di cittadinanza per andare a mignotte__, bunga bunga etc...
 
+{% youtube "jcm4hoIKrOU" %}
+
 Non è interesse di nessuno che questo accada: con una Terra al centro dell'universo, viene da se la necessità di avere il Vaticano al centro della morale, motivo per cui è intenzione di impazzito.it di __iniziare una partnership con la Santa Sede per proporre le idee Geo centriche e fare TONNELLATE DI CASH vendendo idee folli agli imbecilli yankee__.
 
 __Stay tuned.__
