@@ -9,7 +9,7 @@ photos:
   - /uploads/2019/bartolomeu-velho-1568.jpg
 ---
 Il mondo è completamente impazzito. 
-Non si distingue più il vero dal falso, il mobile dall'immobile, __il tondo dal piatto__.
+Non si distingue più il vero dal falso, il mobile dall'immobile, __il tondo dal piatto.__
 
 ## Il modello terrapiattista
 
@@ -33,14 +33,14 @@ Ovviamente non è mia intenzione deridere le teorie dei colleghi impazziti olter
 
 ![](/uploads/2019/eliocentrismo.jpg)
 
-Esprimo tuttavia la mia solidarietà con i colleghi astronomi del nuovo continente, poichè sono corretti nell'affermare che __in campo astronomico esistono moltissime teorie a dir poco ridicole e strampalate__.
+Esprimo tuttavia la mia solidarietà con i colleghi astronomi del nuovo continente, poichè sono corretti nell'affermare che __in campo astronomico esistono moltissime teorie a dir poco ridicole e strampalate.__
 Anche noi, nel vecchio continente, dobbiamo confrontarci con teorie astronomiche eretiche, fatiscenti ed altrettanto risibili.
 Una di questa è il cosidetto eliocentrismo, una teoria ridicola per cui il nostro pianeta si muoverebbe a velocità folli intorno al Sole.
 
 Potrei ovviamente elencare centinaia di inseattezze astronomiche delle teorie eliocentriche, ma per non annoiare il lettore con tecnicismi, mi limiterò all'ovvio ed all'intuizione.
 
 * Il nostro pianeta si muove ad una velocità folle intorno al Sole.
-  * __Se fossimo in movimento in un moto circolare intorno al Sole dovremmo percepire in ogni momento una accelerazione laterale dovuta alla forza centrifuga fortissima, come una pallina in una lavatrice, cosa che non percepiamo assolutamente__.
+  * __Se fossimo in movimento in un moto circolare intorno al Sole dovremmo percepire in ogni momento una accelerazione laterale dovuta alla forza centrifuga fortissima, come una pallina in una lavatrice, cosa che non percepiamo assolutamente.__
 
 * Il nostro pianeta, insieme al Sole, si muove ad una velocità ancora più folle verso/intorno qualche punto X dell'universo.
   * __Se la Terra si muovesse sempre verso un punto X ad una velocità smodata, qualsiasi oggetto che esce dall'atmosfera (astronauti, missioni spaziali, satelliti, etc...) dovrebbe vedere la Terra allontanarsi velocissima, alla stessa modo per cui un passeggero, saltando fuori da un aereoplano che viagga ad una velocità elevata, vedrebbe l'aereo allontanarsi velocissimo.__
@@ -49,13 +49,13 @@ Potrei ovviamente elencare centinaia di inseattezze astronomiche delle teorie el
 
 ![](/uploads/2019/bartolomeu-velho-1568.jpg)
 
-A questo punto dovrebbe essere chiaro a tutti i lettori che __il modello geocentrico è l'unico modello che spiega in maniera efficace ed intuitiva il mondo e lo spazio che ci circonda__.
+A questo punto dovrebbe essere chiaro a tutti i lettori che __il modello geocentrico è l'unico modello che spiega in maniera efficace ed intuitiva il mondo e lo spazio che ci circonda.__
 
 Questo modello fornisce anche un ulteriore vantaggio telogico non indifferente.
 Se il pianeta Terra fosse veramente un __sercio lanciato a velocità folli__ all'interno di un universo sterminato, allora sarebbe facile cadere nel relativismo assoluto e non ci sarebbe nessuna conseguenza per azioni immorali quali ingropparsi la propria madre, __usare il reddito di cittadinanza per andare a mignotte__, bunga bunga etc...
 
 {% youtube "jcm4hoIKrOU" %}
 
-Non è interesse di nessuno che questo accada: con una Terra al centro dell'universo, viene da se la necessità di avere il Vaticano al centro della morale, motivo per cui è intenzione di impazzito.it di __iniziare una partnership con la Santa Sede per proporre le idee geocentriche e fare TONNELLATE DI CASH vendendo idee folli agli imbecilli yankee__.
+Non è interesse di nessuno che questo accada: con una Terra al centro dell'universo, viene da se la necessità di avere il Vaticano al centro della morale, motivo per cui è intenzione di impazzito.it di __iniziare una partnership con la Santa Sede per proporre le idee geocentriche e fare TONNELLATE DI CASH vendendo idee folli agli imbecilli yankee.__
 
 __Stay tuned.__
