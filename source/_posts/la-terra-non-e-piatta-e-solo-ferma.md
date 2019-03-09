@@ -51,7 +51,7 @@ Potrei ovviamente elencare centinaia di inseattezze astronomiche delle teorie el
 
 A questo punto dovrebbe essere chiaro a tutti i lettori che il modello geocentrico è l'unico modello che spiega in maniera efficace ed intuitiva il mondo e lo spazio che ci circonda.
 
-Questo modello fornisce anche un ulteriore vantaggio teoretico non indifferente.
+Questo modello fornisce anche un ulteriore vantaggio telogico non indifferente.
 Se il pianeta Terra fosse veramente un __sercio lanciato a velocità folli__ all'interno di un universo sterminato, allora sarebbe facile cadere nel relativismo assoluto e non ci sarebbe nessuna conseguenza per azioni immorali quali ingropparsi la propria madre, __usare il reddito di cittadinanza per andare a mignotte__, bunga bunga etc...
 
 {% youtube "jcm4hoIKrOU" %}
