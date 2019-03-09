@@ -15,7 +15,7 @@ Ho visto di recente un [documentario terrapiattista su netflixxo](https://www.ne
 
 ![](/uploads/2019/orlando-ferguson-flat-earth-map.jpg)
 
-Ma andiamo per ordine e vediamo di smontare punto punto le idiozie degli yankee con dei capisaldi che qui nel vecchio continente il modello geocentrico ha assodato da ormai centinaia di anni.
+Ma andiamo per ordine e vediamo di smontare punto punto le idiozie degli yankee con dei capisaldi che il modello geocentrico ha assodato da ormai centinaia di anni, qui nel vecchio continente.
 Ovviamente non è mia intenzione deridere le teorie dei colleghi impazziti oltereoceano, vorrei semplicamente condividere con con la loro giovane ed inseperta nazione le scoperte in campo astronomico che vennero consolidate dal Vaticano secoli addietro mentre nel nuovo continente un insieme di selvaggi senza Dio erano ancora presi a tirarsi palle di cacca (rotonde) a vicenda.
 
 * La Terra è piatta.
