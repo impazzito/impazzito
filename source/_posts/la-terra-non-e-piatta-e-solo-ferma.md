@@ -43,7 +43,7 @@ Potrei ovviamente elencare centinaia di inseattezze astronomiche delle teorie el
   * __Se fossimo in movimento in un moto circolare intorno al Sole dovremmo percepire in ogni momento una accelerazione laterale dovuta alla forza centrifuga fortissima, come una pallina in una lavatrice, cosa che non percepiamo assolutamente.__
 
 * Il nostro pianeta, insieme al Sole, si muove ad una velocità ancora più folle verso/intorno qualche punto X dell'universo.
-  * __Se la Terra si muovesse sempre verso un punto X ad una velocità smodata, qualsiasi oggetto che esce dall'atmosfera (astronauti, missioni spaziali, satelliti, etc...) dovrebbe vedere la Terra allontanarsi velocissima, alla stessa modo per cui un passeggero, saltando fuori da un aereoplano che viagga ad una velocità elevata, vedrebbe l'aereo allontanarsi velocissimo.__
+  * __Se la Terra si muovesse sempre verso un punto X ad una velocità smodata, qualsiasi oggetto che esce dall'atmosfera (astronauti, missioni spaziali, satelliti, etc...) dovrebbe vedere la Terra allontanarsi velocissima, allo stesso modo per cui un passeggero, saltando fuori da un aereoplano che viagga ad una velocità elevata, vedrebbe l'aereo allontanarsi velocissimo.__
 
 ## Il modello geocentrico
 
