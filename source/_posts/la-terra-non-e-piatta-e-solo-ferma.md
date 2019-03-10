@@ -9,7 +9,7 @@ photos:
 Il mondo è completamente impazzito. 
 Non si distingue più il vero dal falso, il mobile dall'immobile, __il tondo dal piatto.__
 
-## Il modello terrapiattista
+## Il modello terrapiattista 🤦
 
 Ho visto di recente un [documentario terrapiattista su netflixxo](https://www.netflix.com/title/81015076) di gente oltroceano che sostiene teorie strampalate per cui la vera mappa della Terra assomiglierebbe a questa cosa qui.
 
@@ -27,7 +27,7 @@ Ovviamente non è mia intenzione deridere le teorie dei colleghi impazziti olter
 * La NASA mente, non siamo mai stati sulla Luna.
   * __Siamo stati sulla Luna, mentre lei girava tranquillamente con tutti gli altri astri del cielo intorno alla Terra.__
 
-## Il modello eliocentrico
+## Il modello eliocentrico 🤮
 
 ![](/uploads/2019/eliocentrismo.jpg)
 
@@ -43,7 +43,7 @@ Potrei ovviamente elencare centinaia di inseattezze astronomiche delle teorie el
 * Il nostro pianeta, insieme al Sole, si muove ad una velocità ancora più folle verso/intorno qualche punto X dell'universo.
   * __Se la Terra si muovesse sempre verso un punto X ad una velocità smodata, qualsiasi oggetto che esce dall'atmosfera (astronauti, missioni spaziali, satelliti, etc...) dovrebbe vedere la Terra allontanarsi velocissima, allo stesso modo per cui un passeggero, saltando fuori da un aereoplano che viagga ad una velocità elevata, vedrebbe l'aereo allontanarsi velocissimo.__
 
-## Il modello geocentrico
+## Il modello geocentrico 👍
 
 ![](/uploads/2019/bartolomeu-velho-1568.jpg)
 
@@ -54,6 +54,6 @@ Se il pianeta Terra fosse veramente un __sercio lanciato a velocità folli__ all
 
 {% youtube "jcm4hoIKrOU" %}
 
-Non è interesse di nessuno che questo accada: con una Terra al centro dell'universo, viene da se la necessità di avere il Vaticano al centro della morale, motivo per cui è intenzione di impazzito.it di __iniziare una partnership con la Santa Sede per proporre le idee geocentriche e fare TONNELLATE DI CASH vendendo idee folli agli imbecilli yankee.__
+Non è interesse di nessuno che questo accada: con una Terra al centro dell'universo, viene da se la necessità di avere il Vaticano al centro della morale, motivo per cui è intenzione di impazzito.it di __iniziare una partnership con la Santa Sede per proporre le idee geocentriche e fare TONNELLATE DI CASH 💰 vendendo idee folli agli imbecilli yankee.__
 
 __Stay tuned.__
